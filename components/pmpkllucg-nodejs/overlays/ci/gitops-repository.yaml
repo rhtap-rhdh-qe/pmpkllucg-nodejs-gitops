@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pmpkllucg-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pmpkllucg-nodejs-gitops
